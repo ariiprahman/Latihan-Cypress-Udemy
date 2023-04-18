@@ -1,0 +1,5 @@
+//cara membuka Cypress menggunakan Bash di terminal
+
+// ./node_modules/.bin/cypress open
+
+// it.only() berguna untuk mengisolasi running test
